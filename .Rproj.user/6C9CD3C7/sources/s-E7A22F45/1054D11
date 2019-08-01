@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564691771335.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1454574019",
+    "id" : "1054D11",
+    "lastKnownWriteTime" : 1564692325,
+    "last_content_update" : 1564692325578,
+    "path" : "C:/DC/R/R_Projects/nr-data-literacy/content/post/Welcome.Rmd",
+    "project_path" : "content/post/Welcome.Rmd",
+    "properties" : {
+        "cursorPosition" : "8,260",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

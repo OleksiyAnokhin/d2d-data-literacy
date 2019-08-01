@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D2D Natural Resources and Data Literacy</title>
+    <link>/</link>
+    <description>Recent content on D2D Natural Resources and Data Literacy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 13:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>/2019/08/01/welcome/</link>
+      <pubDate>Thu, 01 Aug 2019 13:13:14 -0500</pubDate>
+      
+      <guid>/2019/08/01/welcome/</guid>
+      <description>Welcome to the D2d Natural Resources abd Data Literacy Project (a part of D2D IFC Program). This website contains information and materials about our capacity building work, focus on training local communities and increasing the transparency in mining sector.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Program objectives: to improve utility of natural resource industry data for development impact
+Structure: joint WB/IFC program led by IFC
+Funding: $2.5 million over 2 years
+What do we hope to achieve? Move the needle to enable the various stakeholders to effectively re-useNR data for purposes that are relevant to them</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/</guid>
+      <description>The core team of the project:
+Alla Morrison (Program Manager)
+LinkedIn, Twitter
+Michelle Jacome (Operations Officer)
+LinkedIn
+Delgermaa Boldbaatar (D2D Program Mongolia Coordinator)
+LinkedIn
+Oleksiy Anokhin
+LinkedIn, Twitter</description>
+    </item>
+    
+  </channel>
+</rss>
