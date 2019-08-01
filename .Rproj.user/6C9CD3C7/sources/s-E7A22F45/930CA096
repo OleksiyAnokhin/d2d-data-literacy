@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2900377073",
+    "hash" : "0",
     "id" : "930CA096",
     "lastKnownWriteTime" : 1564694039,
     "last_content_update" : 1564694039,
     "path" : "C:/DC/R/R_Projects/nr-data-literacy/content/Team.Rmd",
     "project_path" : "content/Team.Rmd",
     "properties" : {
+        "cursorPosition" : "25,19",
+        "scrollLine" : "22"
     },
     "read_only" : false,
     "read_only_alternatives" : [

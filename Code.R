@@ -12,3 +12,6 @@ blogdown::build_site()
 
 # Run web-site
 blogdown::serve_site()
+
+
+# Next steps
