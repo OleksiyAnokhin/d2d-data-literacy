@@ -6,4 +6,4 @@ categories: ["R"]
 tags: ["D2D", "data", "data-literacy", "IFC", "NR"]
 ---
 
-Welcome to the D2d Natural Resources abd Data Literacy Project (a part of D2D IFC Program). This website contains information and materials about our capacity building work, focus on training local communities and increasing the transparency in mining sector. 
+Welcome to the D2D Natural Resources an d Data Literacy Project (a part of D2D IFC Program). This website contains information and materials about our capacity building work, focused on training local communities and increasing the transparency in mining sector. 

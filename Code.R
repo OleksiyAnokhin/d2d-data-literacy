@@ -14,4 +14,8 @@ blogdown::build_site()
 blogdown::serve_site()
 
 
-# Next steps
+# To do list:
+
+# - Tabs: Tools, Photos, Projects, Countries, Partners, Links etc.
+# - Content: Pics, Flourish links, press releases, media links  etc
+# - Blog updates: three events, other projects (govt, work groups, ngos etc)

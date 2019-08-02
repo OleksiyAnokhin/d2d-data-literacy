@@ -5,7 +5,7 @@ date: "8/1/2019"
 output: html_document
 ---
 
-**Program objectives:** to improve utility of natural resource industry data for development impact
+**Program objectives:** to improve utility of natural resource industry data for the development impact
 
 **Structure:** joint WB/IFC program led by IFC
 
