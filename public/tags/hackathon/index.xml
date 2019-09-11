@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackathon on D2D Natural Resources and Data Literacy</title>
+    <link>/tags/hackathon/</link>
+    <description>Recent content in hackathon on D2D Natural Resources and Data Literacy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2019 13:15:26 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>D2D co-organized an Open Data Hackathon in Mongolia</title>
+      <link>/2019/03/25/d2d-co-organized-an-open-data-hackathon-in-mongolia/</link>
+      <pubDate>Mon, 25 Mar 2019 13:15:26 -0500</pubDate>
+      
+      <guid>/2019/03/25/d2d-co-organized-an-open-data-hackathon-in-mongolia/</guid>
+      <description>To engage new people and draw their attention to the available mining open data, the D2D program supported and co-organized (together with with DW Akademie, Deutsche Welle’s center of excellence for training and knowledge transfer, the Mongolian Center for Investigative Reporters, the Press Institute of Mongolia, the National Statistical Office and Innovation Hub) the first Mongolian Data Journalism Hackathon #HackInequality on March 23-24, 2019, which sparked a significant interest among local media, journalists, graphic designers, and analysts.</description>
+    </item>
+    
+  </channel>
+</rss>

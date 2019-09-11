@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on D2D Natural Resources and Data Literacy</title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on D2D Natural Resources and Data Literacy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>Program objectives: to improve utility of natural resource industry data for the development impact
+Structure: joint WB/IFC program led by IFC
+Funding: $2.5 million over 2 years
+What do we hope to achieve? Move the needle to enable the various stakeholders to effectively re-useNR data for purposes that are relevant to them</description>
+    </item>
+    
+  </channel>
+</rss>

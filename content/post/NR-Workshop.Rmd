@@ -1,0 +1,42 @@
+---
+title: "D2D held a capacity building training for infomediaries in Mongolia"
+author: "Oleksiy Anokhin"
+date: 2019-06-05T13:18:33-05:00
+categories: ["R"]
+tags: ["D2D", "data", "data-literacy", "IFC", "NR", "Mongolia"]
+---
+
+On June 4-5, 2019 D2D team organized a capacity building training for informediaries (local journalists, representatives of mining companies, students, academia, members or local government) in Ulaanbaatar, Mongolia. During two days the participants focused their efforts on working with open data about natural resources and water in  Monglolia, crafting own stories and presenting them to colleagues. 
+
+Several guest speakers provided their insights about the discussed topics:
+
+- **Mr. Shar Tsolmon: Coordinator of EITI National Secretariat**
+
+- **Mrs. Sunjidmaa Jamba, General Manager, External Affairs and Communications, Oyu Tolgoi LLC**
+
+- **Mrs. Mendbayar Budee, Chief of internal control and monitoring, Erdenes Mongol LLC**
+
+The event was organized by D2D team and its colelagues - **Alla Morrison**, **Michelle Jacome**, **Arjun Bhalla**, **Delgermaa Boldbaatar**, **Enkhbileg Enkhjargal**, **Ganbat Ganbaatar**, and **Oleksiy Anokhin**. 
+
+<span style="color:red">Add 1 picture from the event here and more to the gallery tab</span> <br>
+
+Examples of data stories, produced by participants
+
+https://public.flourish.studio/story/47878/
+
+https://public.flourish.studio/story/47852/
+
+https://public.flourish.studio/story/47886/
+
+https://public.flourish.studio/story/47810/
+
+https://public.flourish.studio/story/47861/
+
+ 
+
+
+
+
+
+
+

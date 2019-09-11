@@ -19,3 +19,10 @@ blogdown::serve_site()
 # - Tabs: Tools, Photos, Projects, Countries, Partners, Links etc.
 # - Content: Pics, Flourish links, press releases, media links  etc
 # - Blog updates: three events, other projects (govt, work groups, ngos etc)
+# - Fix sizes of the Tools icons
+# - Clarify how to host pictures internally
+
+# How to organize content on Hugo?
+# https://gohugo.io/content-management/organization/
+  
+  

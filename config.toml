@@ -13,14 +13,32 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/About/"
 [[menu.main]]
+    name = "Countries"
+    url = "/countries/"
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+[[menu.main]]
     name = "Team"
     url = "/Team/"
+[[menu.main]]
+    name = "Photos"
+    url = "/"
 [[menu.main]]
     name = "Donor"
     url = "https://www.bhp.com/community/bhp-foundation"
 [[menu.main]]
+    name = "Partners"
+    url = "/"
+[[menu.main]]
     name = "GitHub"
     url = "https://github.com/OleksiyAnokhin/d2d-data-literacy"
+[[menu.main]]
+    name = "Tools"
+    url = "Tools"
+[[menu.main]]
+    name = "Links"
+    url = "/"
 [[menu.main]]
     name = "Twitter"
     url = "/"

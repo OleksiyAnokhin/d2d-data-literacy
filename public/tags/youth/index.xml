@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>youth on D2D Natural Resources and Data Literacy</title>
+    <link>/tags/youth/</link>
+    <description>Recent content in youth on D2D Natural Resources and Data Literacy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2019 13:15:26 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/youth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>D2D co-organized an Open Data Hackathon in Mongolia</title>
+      <link>/2019/03/25/d2d-co-organized-an-open-data-hackathon-in-mongolia/</link>
+      <pubDate>Mon, 25 Mar 2019 13:15:26 -0500</pubDate>
+      
+      <guid>/2019/03/25/d2d-co-organized-an-open-data-hackathon-in-mongolia/</guid>
+      <description>To engage new people and draw their attention to the available mining open data, the D2D program supported and co-organized (together with with DW Akademie, Deutsche Welle’s center of excellence for training and knowledge transfer, the Mongolian Center for Investigative Reporters, the Press Institute of Mongolia, the National Statistical Office and Innovation Hub) the first Mongolian Data Journalism Hackathon #HackInequality on March 23-24, 2019, which sparked a significant interest among local media, journalists, graphic designers, and analysts.</description>
+    </item>
+    
+    <item>
+      <title>Mongolian youth participated in a data analytics workshop</title>
+      <link>/2018/10/08/mongolian-youth-participated-in-a-data-analytics-workshop/</link>
+      <pubDate>Mon, 08 Oct 2018 13:13:14 -0500</pubDate>
+      
+      <guid>/2018/10/08/mongolian-youth-participated-in-a-data-analytics-workshop/</guid>
+      <description>On October 10, 2018 the D2D team organized a workshop in Ulaanbaatar, Mongolia for local youth, where participants had a chance to explore open data related to natural resources, finance, and water in Mongolia.About 40 young Mongolians created 7 teams and learned how to work with open data and extract insights from it. They learned how to find and clean open data, explored the best data visualization practices, and storytelling techniques.</description>
+    </item>
+    
+  </channel>
+</rss>
