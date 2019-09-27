@@ -1,7 +1,10 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "D2D Natural Resources and Data Literacy"
-theme = "blackburn"
+theme = "Blackburn"
+author = "Oleksiy Anokhin"
+# Shown in the side menu
+copyright = "&copy; 2019. All rights reserved."
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -11,40 +14,94 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "About"
+    weight = 2
+    pre = "<i class='fa fa-info-circle fa-fw'></i>"
     url = "/About/"
 [[menu.main]]
     name = "Countries"
-    url = "/countries/"
+    weight = 5
+    pre = "<i class='fa fa-building fa-fw'></i>"
+    url = "/Countries/"
 [[menu.main]]
     name = "Projects"
-    url = "/projects/"
+    weight = 6
+    pre = "<i class='fa fa-folder-open fa-fw'></i>"
+    url = "/Projects/"
 [[menu.main]]
     name = "Team"
+    weight = 9
+    pre = "<i class='fa fa-user fa-fw'></i>"
     url = "/Team/"
 [[menu.main]]
     name = "Photos"
-    url = "/"
+    weight = 11
+    pre = "<i class='fa fa-image fa-fw'></i>"
+    url = "/Photos/"
 [[menu.main]]
     name = "Donor"
+    weight = 8
+    pre = "<i class='fa fa-credit-card fa-fw'></i>"
     url = "https://www.bhp.com/community/bhp-foundation"
 [[menu.main]]
     name = "Partners"
-    url = "/"
+    weight = 7
+    pre = "<i class='fa fa-laptop fa-fw'></i>"
+    url = "/Partners/"
 [[menu.main]]
     name = "GitHub"
+    weight = 17
+    pre = "<i class='fa fa-github fa-fw'></i>"
     url = "https://github.com/OleksiyAnokhin/d2d-data-literacy"
 [[menu.main]]
     name = "Tools"
-    url = "Tools"
+    weight = 15
+    pre = "<i class='fa fa-wrench fa-fw'></i>"
+    url = "/Tools/"
 [[menu.main]]
     name = "Links"
-    url = "/"
+    weight = 16
+    pre = "<i class='fa fa-link fa-fw'></i>"
+    url = "/Links/"
 [[menu.main]]
     name = "Twitter"
-    url = "/"
+    weight = 16
+    pre = "<i class='fa fa-twitter fa-fw'></i>"
+    url = "/twitter/"
 [[menu.main]]
     name = "Contact Us"
+    weight = 18
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    url = "/Contact/"
+[[menu.main]]
+    name = "Video"
+    weight = 12
+    pre = "<i class='fa fa-play-circle fa-fw'></i>"
+    url = "/Video/"
+[[menu.main]]
+    name = "Media"
+    weight = 10
+    pre = "<i class='fa fa-envelope-open fa-fw'></i>"
+    url = "/Media/"
+[[menu.main]]
+    name = "Data"
+    weight = 13
+    pre = "<i class='fa fa-database fa-fw'></i>"
+    url = "/Data/"
+[[menu.main]]
+    name = "Presentations"
+    weight = 14
+    pre = "<i class='fa fa-clone fa-fw'></i>"
+    url = "/Presentations/"
+[[menu.main]]
+name = "Home"
+    weight = 1
+    pre = "<i class='fa fa-home fa-fw'></i>"
     url = "/"
+[[menu.main]]
+name = "Posts"
+    weight = 4
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    url = "/post/"
 
 
 [params]

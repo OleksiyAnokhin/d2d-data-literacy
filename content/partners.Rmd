@@ -1,0 +1,28 @@
+---
+title: "Partners"
+author: "Oleksiy Anokhin"
+date: "8/1/2019"
+output: html_document
+---
+
+D2D work would not be possible without multiple fantastic partners of our team in different countries:
+
+**Ghana:**
+
+* [_MEST_](https://meltwater.org/)
+
+**Mongolia:**
+
+* [_National Statistical Office of Mongolia_](https://www.en.nso.mn/)
+
+* [_Press Institutte of Mongolia_](http://en.pressinst.org.mn/)
+
+* [_Mongolian Center for Investigative Reporters (MCIR)_](https://www.linkedin.com/company/mongolian-center-for-investigative-reporting/)
+
+* [_Hub Innovation Center_](https://www.facebook.com/hubinnovationcenter/)
+
+<span style="color:red">To be updated</span>
+
+
+
+

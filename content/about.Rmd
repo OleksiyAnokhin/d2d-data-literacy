@@ -1,0 +1,24 @@
+---
+title: "About"
+author: "Oleksiy Anokhin"
+date: "8/1/2019"
+output: html_document
+---
+
+Welcome to the **D2D Natural Resources and Data Literacy** project page. 
+
+We developed this web-site to summarize all information and materials about the D2D work for your convenience.
+The project contains open data about natural resources and different deliverables (links, posts, pictures, videos, presentations etc).
+
+Let us briefly introduce the D2D program to you:
+
+**Program objectives:** to improve utility of natural resource industry data for the development impact
+
+**Structure:** joint WB/IFC program led by IFC
+
+**Funding:** $2.5 million over 2 years
+
+**What do we hope to achieve?** Move the needle to enable the various stakeholders to effectively re-use
+NR data for purposes that are relevant to them
+
+<span style="color:red">To be updated</span>

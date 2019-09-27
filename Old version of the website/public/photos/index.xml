@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on D2D Natural Resources and Data Literacy</title>
+    <link>/photos/</link>
+    <description>Recent content in Photos on D2D Natural Resources and Data Literacy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/photos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photos</title>
+      <link>/photos/photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/photos/photos/</guid>
+      <description>This tab contains multiple folders with photos from D2D events:
+1. Mining Open Data for Solving Development Challenges
+Ulaanbaatar, Mongolia (October 10, 2019)
+Photos
+2. HackInequality. The First Mongolian Open Data Hackathon
+Ulaanbaatar, Mongolia (March 23-24, 2019)
+Photos
+3. Natural Resources Data Analytics for Transparency and Stronger Social License
+Ulaanbaatar, Mongolia (June 4-5, 2019)
+Photos</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+---
+title: "Media"
+author: "Oleksiy Anokhin"
+date: "8/1/2019"
+output: html_document
+---
+
+This tab summarizes official press-releases about the D2D program. 
+
+<span style="color:red">TBD. To be updated</span>
+
+

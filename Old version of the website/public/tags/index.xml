@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on D2D Natural Resources and Data Literacy</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on D2D Natural Resources and Data Literacy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 13:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>D2D</title>
+      <link>/tags/d2d/</link>
+      <pubDate>Thu, 01 Aug 2019 13:13:14 -0500</pubDate>
+      
+      <guid>/tags/d2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>/tags/data/</link>
+      <pubDate>Thu, 01 Aug 2019 13:13:14 -0500</pubDate>
+      
+      <guid>/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-literacy</title>
+      <link>/tags/data-literacy/</link>
+      <pubDate>Thu, 01 Aug 2019 13:13:14 -0500</pubDate>
+      
+      <guid>/tags/data-literacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IFC</title>
+      <link>/tags/ifc/</link>
+      <pubDate>Thu, 01 Aug 2019 13:13:14 -0500</pubDate>
+      
+      <guid>/tags/ifc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NR</title>
+      <link>/tags/nr/</link>
+      <pubDate>Thu, 01 Aug 2019 13:13:14 -0500</pubDate>
+      
+      <guid>/tags/nr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feedback</title>
+      <link>/tags/feedback/</link>
+      <pubDate>Tue, 25 Jun 2019 13:09:30 -0500</pubDate>
+      
+      <guid>/tags/feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mongolia</title>
+      <link>/tags/mongolia/</link>
+      <pubDate>Tue, 25 Jun 2019 13:09:30 -0500</pubDate>
+      
+      <guid>/tags/mongolia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survey</title>
+      <link>/tags/survey/</link>
+      <pubDate>Tue, 25 Jun 2019 13:09:30 -0500</pubDate>
+      
+      <guid>/tags/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youth</title>
+      <link>/tags/youth/</link>
+      <pubDate>Tue, 25 Jun 2019 13:09:30 -0500</pubDate>
+      
+      <guid>/tags/youth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>round-table</title>
+      <link>/tags/round-table/</link>
+      <pubDate>Thu, 06 Jun 2019 13:08:55 -0500</pubDate>
+      
+      <guid>/tags/round-table/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>/tags/hackathon/</link>
+      <pubDate>Mon, 25 Mar 2019 13:15:26 -0500</pubDate>
+      
+      <guid>/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

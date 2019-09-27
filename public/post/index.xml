@@ -6,18 +6,21 @@
     <description>Recent content in Posts on D2D Natural Resources and Data Literacy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 13:13:14 -0500</lastBuildDate>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 25 Jun 2019 13:09:30 -0500</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Welcome</title>
-      <link>/2019/08/01/welcome/</link>
-      <pubDate>Thu, 01 Aug 2019 13:13:14 -0500</pubDate>
+      <title>Mongolian informediaries provided an extremely positive feedback about D2D work</title>
+      <link>/2019/06/25/mongolian-informediaries-provided-an-extremely-positive-feedback-about-d2d-work/</link>
+      <pubDate>Tue, 25 Jun 2019 13:09:30 -0500</pubDate>
       
-      <guid>/2019/08/01/welcome/</guid>
-      <description>Welcome to the D2D Natural Resources an d Data Literacy Project (a part of D2D IFC Program). This website contains information and materials about our capacity building work, focused on training local communities and increasing the transparency in mining sector.</description>
+      <guid>/2019/06/25/mongolian-informediaries-provided-an-extremely-positive-feedback-about-d2d-work/</guid>
+      <description>Mongolian participants provided an excellent feedback after participation in the D2D workshop “Natural Resources Data Analytics for Transparency and Stronger Social License”.
+D2D asked participants to evaluate the workshop itself, its relevance to the participants’ work, and satisfaction of the chosen tool (Flourish). Not surprisingly, the team received very positive results, where the majority of participants expressed very satisfaction as “Very satisfied” or “Satisfied”.
+In addition, the team received several oral requests to organize more similar events in future.</description>
     </item>
     
     <item>
@@ -70,6 +73,15 @@ Several guest speakers provided their insights about the discussed topics:
       
       <guid>/2018/10/08/mongolian-youth-participated-in-a-data-analytics-workshop/</guid>
       <description>On October 10, 2018 the D2D team organized a workshop in Ulaanbaatar, Mongolia for local youth, where participants had a chance to explore open data related to natural resources, finance, and water in Mongolia.About 40 young Mongolians created 7 teams and learned how to work with open data and extract insights from it. They learned how to find and clean open data, explored the best data visualization practices, and storytelling techniques.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/2014/06/06/welcome/</link>
+      <pubDate>Fri, 06 Jun 2014 13:08:55 -0500</pubDate>
+      
+      <guid>/2014/06/06/welcome/</guid>
+      <description>Welcome to the D2D Natural Resources and Data Literacy Project (a part of D2D IFC Program). This website contains information and materials about our capacity building work, focused on training local communities and increasing the transparency in mining sector.</description>
     </item>
     
   </channel>

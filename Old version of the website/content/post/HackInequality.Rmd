@@ -1,0 +1,38 @@
+---
+title: "D2D co-organized an Open Data Hackathon in Mongolia"
+author: "Oleksiy Anokhin"
+date: 2019-03-25T13:15:26-05:00
+categories: ["R"]
+tags: ["D2D", "data", "data-literacy", "IFC", "NR", "Mongolia", "youth", "hackathon"]
+---
+
+To engage new people and draw their attention to the available mining open data, the D2D program supported and co-organized (together with with **DW Akademie**, Deutsche Welle’s center of excellence for training and knowledge transfer, the **Mongolian Center for Investigative Reporters**, the **Press Institute of Mongolia**, the **National Statistical Office** and **Innovation Hub**) the first Mongolian Data Journalism Hackathon **#HackInequality** on March 23-24, 2019, which sparked a significant interest among local media, journalists, graphic designers, and analysts. 
+
+The Hackathon attracted about 170 people (who formed 20 teams) for participation and 12 best teams were selected by organizers, joining the 36 hours non-stop hackathon. Several of them hacked open data from the mining industry (and one submission won the 3rd prize), presenting their stories about the inequality of the mining revenue distribution among provinces in Mongolia.
+
+The event was widely covered by Mongolian media:
+
+http://news.gogo.mn/r/237725
+
+http://news.gogo.mn/r/237917
+
+http://news.gogo.mn/r/237673
+
+http://news.gogo.mn/r/237297
+
+http://news.gogo.mn/r/237179
+
+One of the teams, "Go Hack", one the third place with its story about unequal distribution of natural resources in Mongolia
+
+https://www.youtube.com/watch?reload=9&v=RIZObRwFptA
+
+The event was organized by D2D team - **Alla Morrison**, **Michelle Jacome**, **Delgermaa Boldbaatar**, and **Oleksiy Anokhin**. 
+
+<span style="color:red">Add 1 picture from the event here and more to the gallery tab</span> 
+
+
+
+
+
+
+

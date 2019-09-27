@@ -1,0 +1,13 @@
+---
+title: "Countries"
+author: "Oleksiy Anokhin"
+date: "8/1/2019"
+output: html_document
+---
+
+Currently D2D operates in four countries - Colombia, Ghana, Mongolia, and Peru (Phase II of the program).
+
+Phase II will have two more countries - Guinea and Sierra Leone. 
+
+<span style="color:red">To be updated</span>
+

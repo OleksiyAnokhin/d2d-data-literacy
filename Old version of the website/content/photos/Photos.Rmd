@@ -1,0 +1,26 @@
+---
+title: "Photos"
+author: "Oleksiy Anokhin"
+date: "9/11/2019"
+output: html_document
+---
+
+This tab contains multiple folders with photos from D2D events:
+
+**1. Mining Open Data for Solving Development Challenges**
+
+_Ulaanbaatar, Mongolia (October 10, 2019)_
+
+[**Photos**](https://drive.google.com/drive/folders/1yPFAWM_I8K0qVJtNz2TcIU2GPbfy52t0?usp=sharing)
+
+**2. HackInequality. The First Mongolian Open Data Hackathon**
+
+_Ulaanbaatar, Mongolia (March 23-24, 2019)_
+
+[**Photos**](https://drive.google.com/open?id=1hv_-_uQtlTfscDYVDBtngmIhadXgAGtR)
+
+**3. Natural Resources Data Analytics for Transparency and Stronger Social License**
+
+_Ulaanbaatar, Mongolia (June 4-5, 2019)_
+
+[**Photos**](https://drive.google.com/open?id=1l8V_96fAG4yfOOiHEqciZljtGFWjes1v)

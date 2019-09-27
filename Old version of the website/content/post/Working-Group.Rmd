@@ -1,0 +1,20 @@
+---
+title: "2nd D2D Working Group Meeting in Mongolia"
+author: "Oleksiy Anokhin"
+date: 2019-06-07T13:13:14-05:00
+categories: ["R"]
+tags: ["D2D", "data", "data-literacy", "IFC", "NR", "Mongolia"]
+---
+
+On June 7, 2019 the D2D team in Mongolia organized the second meeting of the D2D Natural Resource Data for Development Working Group. 
+
+Participants:
+
+Representatives of the Ministry of Mining and Heavy Industry, Ministry of Finance, Ministry of Environment and Tourism, Mongolian National Mining Association, National Resources Governance Institute, Business Council of Mongolia, EITI Mongolia Secretariat, National University of Mongolia attended the event and provided their insights about improving the open data management processes and overcoming challenges in this field. 
+
+**Delgermaa Boldbotaar** presented the preliminary findings of the scoping study _"Mongolia Natural Resources Data Accessibility and Use"_. **Oleksiy Anokhin** reflected on lessons learned during the implementation of the _"Natural resources data analytics toolkit for capacity building"_.
+
+<span style="color:red">Add 1 picture from the event here and more to the gallery tab</span> 
+
+
+

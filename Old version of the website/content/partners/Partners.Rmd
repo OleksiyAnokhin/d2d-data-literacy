@@ -1,0 +1,13 @@
+---
+title: "Partners"
+author: "Oleksiy Anokhin"
+date: "9/11/2019"
+output: html_document
+---
+
+In Mongolia D2D has several partners:
+
+- Innovation Hub
+
+- The National Statistical Office
+

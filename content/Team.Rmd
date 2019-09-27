@@ -7,9 +7,9 @@ output: html_document
 
 The core team of the project:
 
-**Alla Morrison** (Program Manager)
+<center>
 
-[**LinkedIn**](https://www.linkedin.com/in/alla-morrison/), [**Twitter**](https://twitter.com/allamorrison)
+**Alla Morrison** (Program Manager)
 
 **Michelle Jacome** (Operations Officer)
 
@@ -17,9 +17,12 @@ The core team of the project:
 
 **Delgermaa Boldbaatar** (D2D Program Mongolia Coordinator)
 
-
 [**LinkedIn**](https://www.linkedin.com/in/delgermaa-boldbaatar-b1a03816/)
 
-**Oleksiy Anokhin**
+**Oleksiy Anokhin** (Consultant)
 
 [**LinkedIn**](https://www.linkedin.com/in/oanokhin/), [**Twitter**](https://twitter.com/oleksiyanokhin)
+
+</center>
+
+<span style="color:red">Team will be updated. Photos will be updated</span>

@@ -21,6 +21,6 @@ In our opinion, Flourish is easy to pick, intuitive, beautiful, and free - a per
 
 ![](https://community.rstudio.com/uploads/default/original/1X/c017cef9c13bc937df73659d3b5b1411a39c7ed2.png)
 
-
+<span style="color:red">Images will be updated</span>
 
 

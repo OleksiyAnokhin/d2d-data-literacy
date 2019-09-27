@@ -6,6 +6,7 @@
     <description>Recent content on D2D Natural Resources and Data Literacy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     <lastBuildDate>Thu, 01 Aug 2019 13:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +14,22 @@
     
     <item>
       <title>Welcome</title>
-      <link>/2019/08/01/welcome/</link>
+      <link>/welcome/</link>
       <pubDate>Thu, 01 Aug 2019 13:13:14 -0500</pubDate>
       
-      <guid>/2019/08/01/welcome/</guid>
-      <description>Welcome to the D2D Natural Resources an d Data Literacy Project (a part of D2D IFC Program). This website contains information and materials about our capacity building work, focused on training local communities and increasing the transparency in mining sector.</description>
+      <guid>/welcome/</guid>
+      <description>Welcome to the D2D Natural Resources and Data Literacy Project (a part of D2D IFC Program). This website contains information and materials about our capacity building work, focused on training local communities and increasing the transparency in mining sector.</description>
+    </item>
+    
+    <item>
+      <title>Mongolian informediaries provided an extremely positive feedback about D2D work</title>
+      <link>/2019/06/25/mongolian-informediaries-provided-an-extremely-positive-feedback-about-d2d-work/</link>
+      <pubDate>Tue, 25 Jun 2019 13:09:30 -0500</pubDate>
+      
+      <guid>/2019/06/25/mongolian-informediaries-provided-an-extremely-positive-feedback-about-d2d-work/</guid>
+      <description>Mongolian participants provided an excellent feedback after participation in the D2D workshop “Natural Resources Data Analytics for Transparency and Stronger Social License”.
+D2D asked participants to evaluate the workshop itself, its relevance to the participants’ work, and satisfaction of the chosen tool (Flourish). Not surprisingly, the team received very positive results, where the majority of participants expressed very satisfaction as “Very satisfied” or “Satisfied”.
+In addition, the team received several oral requests to organize more similar events in future.</description>
     </item>
     
     <item>
@@ -73,15 +85,131 @@ Several guest speakers provided their insights about the discussed topics:
     </item>
     
     <item>
+      <title>Welcome</title>
+      <link>/2014/06/06/welcome/</link>
+      <pubDate>Fri, 06 Jun 2014 13:08:55 -0500</pubDate>
+      
+      <guid>/2014/06/06/welcome/</guid>
+      <description>Welcome to the D2D Natural Resources and Data Literacy Project (a part of D2D IFC Program). This website contains information and materials about our capacity building work, focused on training local communities and increasing the transparency in mining sector.</description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>/about/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/about/</guid>
-      <description>Program objectives: to improve utility of natural resource industry data for the development impact
-Structure: joint WB/IFC program led by IFC
-Funding: $2.5 million over 2 years
-What do we hope to achieve? Move the needle to enable the various stakeholders to effectively re-useNR data for purposes that are relevant to them</description>
+      <guid>/about/</guid>
+      <description>Welcome to the D2D Natural Resources and Data Literacy project page.
+We developed this web-site to summarize all information and materials about the D2D work for your convenience.The project contains open data about natural resources and different deliverables (links, posts, pictures, videos, presentations etc).
+Let us briefly introduce the D2D program to you:
+Program objectives: to improve utility of natural resource industry data for the development impact
+Structure: joint WB/IFC program led by IFC</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>If you have any questions or suggestions, please contact us via oanokhin@ifc.org
+To be updated</description>
+    </item>
+    
+    <item>
+      <title>Countries</title>
+      <link>/countries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/countries/</guid>
+      <description>Currently D2D operates in four countries - Colombia, Ghana, Mongolia, and Peru (Phase II of the program).
+Phase II will have two more countries - Guinea and Sierra Leone.
+To be updated</description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/data/</guid>
+      <description>This tab will contain open data about natural resources, water, and revenue sharing information.
+The data will be presented in the format of links to specific datasets, refined by D2D team, or links to specific sources, where the original data can be downloaded.
+To be updated</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/links/</guid>
+      <description>This tab summarizes all links, presented on this web-site together. Additionally, some links are duplicated under different tabs to make your access to this information more convenient.
+To be updated</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/media/</guid>
+      <description>This tab summarizes official press-releases about the D2D program.
+TBD. To be updated</description>
+    </item>
+    
+    <item>
+      <title>Partners</title>
+      <link>/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/</guid>
+      <description>D2D work would not be possible without multiple fantastic partners of our team in different countries:
+Ghana:
+MESTMongolia:
+National Statistical Office of Mongolia
+Press Institutte of Mongolia
+Mongolian Center for Investigative Reporters (MCIR)
+Hub Innovation Center
+To be updated</description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>/photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/photos/</guid>
+      <description>This tab contains links to some photos, taken during different workshops and other events.
+1. Mining Open Data for Solving Development Challenges
+Ulaanbaatar, Mongolia (October 10, 2019)
+Photos
+2. HackInequality. The First Mongolian Open Data Hackathon
+Ulaanbaatar, Mongolia (March 23-24, 2019)
+Photos
+3. Natural Resources Data Analytics for Transparency and Stronger Social License
+Ulaanbaatar, Mongolia (June 4-5, 2019)
+Photos
+To be updated</description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/presentations/</guid>
+      <description>This tab will contain links to some D2D presentaions, prepared for our trainings and events.
+To be updated</description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>TBD. To be updated</description>
     </item>
     
     <item>
@@ -91,14 +219,14 @@ What do we hope to achieve? Move the needle to enable the various stakeholders t
       
       <guid>/team/</guid>
       <description>The core team of the project:
-Alla Morrison (Program Manager)
-LinkedIn, Twitter
+Alla Morrison (Program Manager)
 Michelle Jacome (Operations Officer)
 LinkedIn
 Delgermaa Boldbaatar (D2D Program Mongolia Coordinator)
 LinkedIn
-Oleksiy Anokhin
-LinkedIn, Twitter</description>
+Oleksiy Anokhin (Consultant)
+LinkedIn, Twitter
+Team will be updated. Photos will be updated</description>
     </item>
     
     <item>
@@ -110,6 +238,25 @@ LinkedIn, Twitter</description>
       <description>In our capacity building work we teach and use multiple tools:
 Flourish, new platform for visualizing, presenting and telling stories with data.Currently Flourish partners with Google News Lab to make Floursh available for journalists. Floursih is available among Google News Initiative tools.In our opinion, Flourish is easy to pick, intuitive, beautiful, and free - a perfect combination for teaching local communities new data literacy skills.
 R - a programming language and free software environment for statistical computing and graphics.</description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/twitter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/twitter/</guid>
+      <description>TBD. To be updated</description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/video/</guid>
+      <description>This tab will summarize links for video products, created by D2D workshops’ participants and media.
+To be updated</description>
     </item>
     
   </channel>

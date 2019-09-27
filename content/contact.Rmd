@@ -1,0 +1,10 @@
+---
+title: "Contact"
+author: "Oleksiy Anokhin"
+date: "8/1/2019"
+output: html_document
+---
+
+If you have any questions or suggestions, please contact us via [**oanokhin@ifc.org**](oanokhin@ifc.org)
+
+<span style="color:red">To be updated</span>

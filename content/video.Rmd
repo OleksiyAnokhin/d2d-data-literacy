@@ -1,0 +1,14 @@
+---
+title: "Video"
+author: "Oleksiy Anokhin"
+date: "8/1/2019"
+output: html_document
+---
+
+This tab will summarize links for video products, created by D2D workshops' participants and media. 
+
+<span style="color:red">To be updated</span>
+
+
+
+

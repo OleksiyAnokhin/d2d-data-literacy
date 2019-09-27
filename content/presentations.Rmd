@@ -1,0 +1,14 @@
+---
+title: "Presentations"
+author: "Oleksiy Anokhin"
+date: "8/1/2019"
+output: html_document
+---
+
+This tab will contain links to some D2D presentaions, prepared for our trainings and events. 
+
+<span style="color:red">To be updated</span>
+
+
+
+
